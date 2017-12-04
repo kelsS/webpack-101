@@ -1,0 +1,31 @@
+{
+  "name": "ch1",
+  "version": "1.0.0",
+  "description": "Ch1 webpack tutorial from Lynda.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelsS/webpack-101.git"
+  },
+  "keywords": [
+    "webpack",
+    "transpiling",
+    "tutorial",
+    "npm"
+  ],
+  "author": "Kelsey Swanson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kelsS/webpack-101/issues"
+  },
+  "homepage": "https://github.com/kelsS/webpack-101#readme",
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
